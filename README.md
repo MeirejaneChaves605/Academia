@@ -39,7 +39,7 @@ O objetivo deste projeto foi criar uma interface impactante e direta, destacando
 
 1.  Faça o download ou clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/lifefit-landing-page.git](https://github.com/seu-usuario/lifefit-landing-page.git)
+    git clone [https://github.com/MeirejaneChaves605/Academia.git](https://github.com/MeirejaneChaves605/Academia.git)
     ```
 2.  Abra a pasta do projeto.
 3.  Execute o arquivo `index.html` em seu navegador de preferência.
