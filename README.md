@@ -2,7 +2,7 @@
 
 # 🏋️ Fit - Sua Jornada Começa Agora
 
-A **Fit** é uma landing page de alta performance desenvolvida para academias e centros esportivos. O projeto utiliza uma estética "Dark Mode" com detalhes em vermelho vibrante para transmitir energia, disciplina e modernidade.
+A **Fit** é uma landing page de alta performance desenvolvida com alguns exemplos de atividades físicas. O projeto utiliza uma estética "Dark Mode" com detalhes em vermelho vibrante para transmitir energia, disciplina e modernidade.
 
 ---
 
