@@ -27,14 +27,6 @@ O objetivo deste projeto foi criar uma interface impactante e direta, destacando
 * **Hero Section Imersiva:** Cabeçalho com imagem em tela cheia (Viewport Height) e sobreposição de texto.
 * **Layout Alternado:** As seções trocam a posição entre imagem e texto automaticamente para manter o ritmo visual.
 
-## 📸 Prévia Visual
-
-> [!TIP]
-> **Dica para o Desenvolvedor:** Adicione um GIF ou uma imagem do site aqui para valorizar seu portfólio no GitHub!
-
-* **Desktop:** Visual robusto com cards horizontais.
-* **Mobile:** Menu simplificado e layout verticalizado para facilitar a leitura no celular.
-
 ## ⚙️ Como executar
 
 1.  Faça o download ou clone este repositório:
